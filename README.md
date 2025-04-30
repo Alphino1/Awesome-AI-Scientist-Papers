@@ -65,6 +65,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 - [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., Arxiv, 2025
 
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., Arxiv, 2025
+  
+- [Symbolic Regression with a Learned Concept Library](https://arxiv.org/abs/2409.09359), Arya Grayeli et al., Arxiv, 2024
 
 - [An empirical investigation of the impact of ChatGPT on creativity](https://doi.org/10.1038/s41562-024-01953-1), Byung Cheol Lee et al., Nature Human Behaviour, 2024
 
@@ -88,9 +90,13 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [CodeScientist: Semi-Automated Discovery](https://arxiv.org/abs/2503.22708), Peter Jansen et al., Arxiv, 2025
+  
 - [Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf), Juraj Gottweis et al., Google, 2025
-
+  
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., Arxiv, 2025
+
+- [AIGS: AI-Powered Falsification](https://arxiv.org/pdf/2411.11910), Zijun Liu et al., Arxiv, 2024
 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
